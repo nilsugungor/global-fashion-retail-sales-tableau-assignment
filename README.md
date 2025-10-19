@@ -10,10 +10,19 @@ The final report is designed to simulate communication with a **business audienc
 ## 📂 Repository Structure
 project-folder/
 │
-├── data/ # Raw and processed datasets
 ├── tableau/ # Tableau workbooks (.twb/.twbx) and exported dashboards
 ├── report/ # Final written report
 └── README.md # Project documentation
+
+---
+
+## 📊 Dataset
+
+The dataset used in this project comes from Kaggle:
+
+👉 [Global Fashion Retail Stores Dataset](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset)
+
+This dataset contains detailed information about customers, products, transactions, and store performance for a global fashion retail chain.
 
 ---
 
