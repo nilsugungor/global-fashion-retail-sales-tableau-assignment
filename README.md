@@ -9,10 +9,10 @@ The final report is designed to simulate communication with a **business audienc
 
 ## 📂 Repository Structure
 project-folder/
-│
-├── tableau/ # Tableau workbooks (.twb/.twbx) and exported dashboards
-├── report/ # Final written report
-└── README.md # Project documentation
+
+tableau/ # Tableau workbooks (.twb/.twbx) and exported dashboards
+report/ # Final written report
+README.md # Project documentation
 
 ---
 
